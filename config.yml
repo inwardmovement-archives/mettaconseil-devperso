@@ -21,20 +21,11 @@ blackfriday:
 footnoteReturnLinkContents: "↑"
 menu:
   mainleft:
-      - Name: "Accueil"
-        URL: "/"
-        Identifier: "accueil"
-        weight: 1
-      - Name: "Articles"
-        URL: "/articles/"
-        Identifier: "articles"
-        weight: 2
-  mainright:
-      - Name: "À propos"
-        URL: "/a-propos/"
-        Identifier: "a-propos"
-        weight: 1
-      - Name: "Prendre rendez-vous"
-        URL: "/prendre-rdv/"
-        Identifier: "prendre-rdv"
-        weight: 2
+    - Name: "À propos"
+      URL: "/a-propos/"
+      Identifier: "a-propos"
+      weight: 1
+    - Name: "Articles"
+      URL: "/articles/"
+      Identifier: "articles"
+      weight: 2
