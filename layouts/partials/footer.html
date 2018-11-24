@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand navbar-light bg-light nav-footer" aria-label="Footer navigation">
+  <div class="container">
+    <div class="collapse navbar-collapse">
+      <div class="navbar-nav mx-auto">
+        <a class="nav-item nav-link" href="https://github.com/inwardmovement/mettaconseil">GitHub</a>
+        <a class="nav-item nav-link" href="">Mentions légales</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+{{- with (getenv "CI") }}
+  <script src="{{ "main.js" | relURL }}"></script>
+{{ else }}
+  <script src="{{ "js/jquery.js" | relURL }}"></script>
+  <script src="{{ "js/popper.js" | relURL }}"></script>
+  <script src="{{ "js/bootstrap.js" | relURL }}"></script>
+  <script src="{{ "js/app.js" | relURL }}"></script>
+{{ end -}}

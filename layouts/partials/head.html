@@ -1,0 +1,29 @@
+<meta name="author" content="{{ .Site.Params.author }}">
+<meta name="description" content="{{ .Site.Title }}: {{ .Site.Params.description }}.">
+{{ .Hugo.Generator -}}
+{{- with (getenv "CI") }}
+  <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
+  <meta name="changelog" content="{{ getenv "TRAVIS_COMMIT_MESSAGE" }}">
+{{- end }}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{{- range .AlternativeOutputFormats }}
+    {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
+{{- end }}
+{{- with (getenv "CI") }}
+  <link rel="stylesheet" href="{{ "main.css" | relURL }}">
+{{- else }}
+  <link rel="stylesheet" href="{{ "css/bootstrap.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/app.css" | relURL }}">
+{{- end }}
+{{- with (getenv "CI") }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114704921-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-114704921-2');
+  </script>
+{{ end }}
+<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ if .IsHome }} | {{ .Site.Params.description }}{{ end }}</title>

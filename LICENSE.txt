@@ -1,5 +1,5 @@
 /************************************************************
-                       CODE + BOOTSTRAP
+                CODE + BOOTSTRAP + GULP + TRAVIS
 ************************************************************/
 
 The MIT License (MIT)
@@ -9,6 +9,13 @@ Copyright (c) Victor Massé
 
 "Bootstrap"
 Copyright (c) 2011-2016 Twitter, Inc.
+
+"gulp"
+Copyright (c) 2013-2017 Blaine Bublitz <blaine.bublitz@gmail.com>,
+Eric Schoffstall <yo@contra.io> and other contributors
+
+"Travis CI"
+Copyright (c) 2012 Travis CI team <contact@travis-ci.org>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -445,6 +452,10 @@ Copyright 2015 Google Inc. All Rights Reserved.
 Copyright 2016 The Dancing Script Project Authors (impallari@gmail.com),
 with Reserved Font Name 'Dancing Script'.
 
+"Uncial Antiqua"
+Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI)
+(astigma@astigmatic.com), with Reserved Font Names "Uncial Antiqua"
+
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
 development of collaborative font projects, to support the font creation
@@ -530,7 +541,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
 /************************************************************
-                      HUGO + OPEN SANS font
+                   HUGO + OPEN SANS font
 ************************************************************/
 
 Apache License
