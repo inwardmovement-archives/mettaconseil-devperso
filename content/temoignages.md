@@ -1,5 +1,6 @@
 ---
 title: Témoignages
+layout: temoignages
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
