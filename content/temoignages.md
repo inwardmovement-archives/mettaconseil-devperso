@@ -1,5 +1,5 @@
 ---
-title: Prendre rendez-vous
+title: Témoignages
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ with .Page.Params.lang }}{{ . }}{{ else }}en{{ end }}">
+<html lang="fr">
 <head>
   {{- partial "head" . -}}
 </head>
@@ -7,8 +7,8 @@
   <header>
     {{ partial "nav" . -}}
   </header>
+  {{- block "main" . }}{{ end -}}
   <footer>
-    {{- block "main" . }}{{ end -}}
     {{ partial "footer" . -}}
   </footer>
 </body>
