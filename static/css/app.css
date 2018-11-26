@@ -472,6 +472,18 @@ article p {
 }
 
 /************************************************************
+ COMMENTS
+************************************************************/
+.fb-comments {
+    background-image: url(../img/loader.gif); /* http://www.ajaxload.info/ */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fb-comments[fb-xfbml-state="rendered"] {
+    background-image: none;
+}
+
+/************************************************************
  BLOCKQUOTE
 ************************************************************/
 blockquote {
