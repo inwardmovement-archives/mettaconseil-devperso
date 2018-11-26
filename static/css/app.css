@@ -475,7 +475,7 @@ article p {
  COMMENTS
 ************************************************************/
 .fb-comments {
-    background-image: url(../img/loader.gif); /* http://www.ajaxload.info/ */
+    background-image: url(img/loader.gif); /* http://www.ajaxload.info/ */
     background-repeat: no-repeat;
     background-position: center;
 }
