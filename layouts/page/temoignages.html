@@ -4,7 +4,12 @@
       <h1>{{ .Title }}</h1><br>
         {{ .Content -}}
         <br>
-        <div id="fb-comments" class="fb-comments" data-href="https://inwardmovement.github.io/mettaconseil/temoignages/" data-numposts="5" data-order-by="reverse_time" data-width=""></div>
+        <div class="d-flex justify-content-center">
+          <div class="spinner-border" role="status">
+            <span class="sr-only">Loading...</span>
+          </div>
+        </div>
+        <div id="fb-comments" class="fb-comments" data-href="https://inwardmovement.github.io/mettaconseil/temoignages/" data-numposts="5" data-order-by="reverse_time" data-width="100%"></div>
     </article>
   </main>
 {{ end }}
