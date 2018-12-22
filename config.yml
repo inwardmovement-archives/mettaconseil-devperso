@@ -25,7 +25,15 @@ menu:
       URL: "/"
       Identifier: "accueil"
       weight: 1
+    - Name: "Approche"
+      URL: "/approche/"
+      Identifier: "approche"
+      weight: 2
     - Name: "Articles"
       URL: "/articles/"
       Identifier: "articles"
-      weight: 2
+      weight: 3
+    - Name: "À propos"
+      URL: "/a-propos/"
+      Identifier: "a-propos"
+      weight: 4

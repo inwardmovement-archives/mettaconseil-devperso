@@ -392,7 +392,6 @@ article h5 {
 #TableOfContents ul {
   padding-right: 0;
   padding-left: 2rem;
-  font-size: initial;
 }
 
 #TableOfContents ul:first-child {
@@ -448,7 +447,7 @@ article p {
 
 @media (min-width: 768px) {
   article {
-    max-width: 700px;
+    max-width: 600px;
   }
 }
 
@@ -460,10 +459,6 @@ article p {
   article.home {
     padding-top: 100px;
   }
-}
-
-article p, ul{
-  font-size: 1.06rem;
 }
 
 /************************************************************
