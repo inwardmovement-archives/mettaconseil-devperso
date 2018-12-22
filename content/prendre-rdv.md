@@ -2,9 +2,15 @@
 title: Prendre rendez-vous
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Le tarif est de 80€ pour 60 minutes.
+- Vous recevrez un lien par mail vous permettant d’accéder à la visioconférence au moment du rendez-vous (vous devez disposer d’un compte Google, d’une webcam et d’un micro).
+- Un rendez-vous peut être annulé et remboursé au plus tard 48h avant.
+
+(plugin rendez-vous / Stripe)
+
+Pour tout renseignement, n’hésitez pas à me contacter directement :
+Victor Massé
+contact@mettaconseil.fr
+06.69.05.29.65
+
+(photo)
