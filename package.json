@@ -25,5 +25,8 @@
     "gulp-remove-empty-lines": "^0.1.0",
     "gulp-replace": "^0.6.1",
     "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-uglify-es": "^1.0.4"
   }
 }
