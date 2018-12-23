@@ -27,7 +27,6 @@ gulp.task('css', function(){
 gulp.task('js', function(){
   return gulp.src([
     'static/js/jquery.js',
-    'static/js/popper.js',
     'static/js/bootstrap.js',
     'static/js/app.js'
     ])
