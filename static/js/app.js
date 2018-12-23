@@ -1,5 +1,5 @@
 /************************************************************
-  HIDE LOADER WHEN FB-COMMENTS RENDERED
+ HIDE LOADER WHEN FB-COMMENTS RENDERED
 ************************************************************/
 var targetNode = document.querySelector('.fb-comments');
 var config = { attributes: true };
@@ -18,7 +18,7 @@ var observer = new MutationObserver(callback);
 observer.observe(targetNode, config);
 
 /************************************************************
-  FIX MODAL SCROLLBAR
+ FIX MODAL SCROLLBAR
 ************************************************************/
 $('#modalDonation')
   .on('show.bs.modal', function (e) {
@@ -26,4 +26,4 @@ $('#modalDonation')
   })
   .on('hide.bs.modal', function (e) {
     document.querySelector("html").style.overflow = "initial";
-  })
+  });
