@@ -20,10 +20,10 @@ observer.observe(targetNode, config);
 /************************************************************
  FIX MODAL SCROLLBAR
 ************************************************************/
-$('#modalDonation')
-  .on('show.bs.modal', function (e) {
-    document.querySelector("html").style.overflow = "inherit";
-  })
-  .on('hide.bs.modal', function (e) {
-    document.querySelector("html").style.overflow = "initial";
-  });
+// $('#modalDonation')
+//   .on('show.bs.modal', function (e) {
+//     document.querySelector("html").style.overflow = "inherit";
+//   })
+//   .on('hide.bs.modal', function (e) {
+//     document.querySelector("html").style.overflow = "initial";
+//   });
