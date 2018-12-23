@@ -16,6 +16,7 @@ var callback = function(mutationsList, observer) {
 };
 var observer = new MutationObserver(callback);
 observer.observe(targetNode, config);
+
 /************************************************************
  FIX MODAL SCROLLBAR
 ************************************************************/
