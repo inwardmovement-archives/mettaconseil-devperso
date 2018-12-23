@@ -11,6 +11,5 @@ title: Prendre rendez-vous
 Pour tout renseignement, n’hésitez pas à me contacter directement :
 Victor Massé
 contact@mettaconseil.fr
-06.69.05.29.65
 
 (photo)
