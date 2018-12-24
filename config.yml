@@ -1,6 +1,6 @@
 baseURL: "https://inwardmovement.github.io/mettaconseil"
-languageCode: "fr"
 defaultContentLanguage: "fr"
+languageCode: "fr"
 title: "Metta Conseil"
 disableLiveReload: true
 # disableFastRender: true

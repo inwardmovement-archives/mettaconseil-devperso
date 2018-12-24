@@ -101,6 +101,18 @@ dd {
   margin-bottom: 0;
 }
 
+.navbar .btn {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+}
+
+@media (min-width: 768px) {
+  .navbar .btn {
+    margin: initial;
+  }
+}
+
 /************************************************************
   CONTAINER
 ************************************************************/
@@ -434,11 +446,6 @@ article p {
   article {
     padding-right: 15px;
     padding-left: 15px;
-  }
-}
-
-@media (min-width: 768px) {
-  article {
     max-width: 600px;
   }
 }
