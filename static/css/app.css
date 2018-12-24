@@ -99,7 +99,7 @@ dd {
 }
 
 /* fix fb-comments inconsistant width on mobile */
-.fb_iframe_widget span, iframe.fb_ltr {
+.fb_iframe_widget span, .fb_iframe_widget span iframe {
   width: 100% !important;
 }
 

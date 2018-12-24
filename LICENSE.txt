@@ -1,5 +1,5 @@
 /************************************************************
-                CODE + BOOTSTRAP + GULP + TRAVIS
+       CODE + BOOTSTRAP + GULP + TRAVIS + SCROLLTOFIXED
 ************************************************************/
 
 The MIT License (MIT)
