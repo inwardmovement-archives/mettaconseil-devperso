@@ -101,18 +101,6 @@ dd {
   margin-bottom: 0;
 }
 
-.navbar .btn {
-  margin-top: 8px;
-  margin-bottom: 8px;
-  margin-left: 0px;
-}
-
-@media (min-width: 768px) {
-  .navbar .btn {
-    margin: initial;
-  }
-}
-
 /************************************************************
   CONTAINER
 ************************************************************/
@@ -238,6 +226,28 @@ main.container.article {
 
 .navbar-toggler {
   margin-right: 0 !important;
+}
+
+.navbar .btn {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+}
+
+.navbar-collapse {
+  margin-top: 8px;
+}
+
+@media (min-width: 768px) {
+  .navbar-collapse {
+    margin-top: initial;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar .btn {
+    margin: initial;
+  }
 }
 
 .nav-recueils {
