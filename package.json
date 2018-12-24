@@ -16,7 +16,7 @@
     "url": "https://github.com/inwardmovement/mettaconseil/issues"
   },
   "homepage": "https://github.com/inwardmovement/mettaconseil",
-  "devDependencies": {
+  "dependencies": {
     "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.9.2",
