@@ -1,24 +1,5 @@
 /************************************************************
- HIDE LOADER WHEN FB-COMMENTS RENDERED
-************************************************************/
-var targetNode = document.querySelector('.fb-comments');
-var config = { attributes: true };
-var i = 0;
-var callback = function(mutationsList, observer) {
-  for(var mutation of mutationsList) {
-    if ( mutation.attributeName == "fb-xfbml-state" ) {
-      i++;
-      if ( i == 2 ) {
-        $("#loader").hide();
-      }
-    }
-  }
-};
-var observer = new MutationObserver(callback);
-observer.observe(targetNode, config);
-
-/************************************************************
- FIX MODAL SCROLLBAR
+ FIX OPEN MODAL KILLING BODY SCROLLBAR
 ************************************************************/
 $('#modalDonation')
   .on('show.bs.modal', function (e) {
@@ -27,3 +8,34 @@ $('#modalDonation')
   .on('hide.bs.modal', function (e) {
     document.querySelector("html").style.overflow = "initial";
   });
+
+/************************************************************
+ HIDE LOADER WHEN FB-COMMENTS RENDERED
+************************************************************/
+if ( window.location.href.substr(window.location.href.lastIndexOf("/")-11) == "temoignages/") {
+  var targetNode = document.querySelector('.fb-comments');
+  var config = { attributes: true };
+  var i = 0;
+  var callback = function(mutationsList, observer) {
+    for(var mutation of mutationsList) {
+      if ( mutation.attributeName == "fb-xfbml-state" ) {
+        i++;
+        if ( i == 2 ) {
+          $("#loader").hide();
+        }
+      }
+    }
+  };
+  var observer = new MutationObserver(callback);
+  observer.observe(targetNode, config);
+};
+
+/************************************************************
+ MAKE TOPBTN SCROLLTOFIXED
+************************************************************/
+$(document).ready(function() {
+  $('#topBtn').scrollToFixed( {
+    bottom: 8,
+    limit: $('#topBtn').offset().top
+  });
+});
