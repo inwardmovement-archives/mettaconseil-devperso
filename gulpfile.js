@@ -1,8 +1,5 @@
 var gulp      = require('gulp'),
-    concat    = require('gulp-concat'),
     replace   = require('gulp-replace'),
-    minify    = require('gulp-clean-css'),
-    uglify    = require('gulp-uglify-es').default,
     beautify  = require('gulp-html-prettify'),
     trim      = require('gulp-remove-empty-lines'),
     exec      = require('child_process').exec,
