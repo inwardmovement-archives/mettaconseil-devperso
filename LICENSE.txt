@@ -547,7 +547,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
 /************************************************************
-                   HUGO + OPEN SANS font
+                       HUGO/OPEN SANS
 ************************************************************/
 
 Apache License
@@ -1925,4 +1925,3 @@ The externally maintained libraries used by Node.js are:
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
     IN THE SOFTWARE.
   """
-
