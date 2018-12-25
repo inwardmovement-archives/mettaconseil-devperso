@@ -5,7 +5,8 @@ var gulp      = require('gulp'),
     uglify    = require('gulp-uglify-es').default,
     beautify  = require('gulp-html-prettify'),
     trim      = require('gulp-remove-empty-lines'),
-    exec      = require('child_process').exec;
+    exec      = require('child_process').exec,
+    del       = require('del');
 
 gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html' ]);
 
