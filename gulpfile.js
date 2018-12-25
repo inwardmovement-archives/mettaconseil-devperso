@@ -8,7 +8,7 @@ var gulp      = require('gulp'),
     exec      = require('child_process').exec,
     del       = require('del');
 
-gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html', 'clean' ]);
+gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html' ]);
 
 gulp.task('reset', function(){
     return del('public/**/*');
