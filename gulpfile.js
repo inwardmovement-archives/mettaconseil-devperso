@@ -58,12 +58,3 @@ gulp.task('html', ['hugo'], function() {
     .pipe(replace(' €', '&#8239;€'))
     .pipe(gulp.dest('public'))
 });
-
-gulp.task('clean', ['html'], function () {
-  return del([
-      'static/main.css',
-      'static/main.js',
-      'public/css',
-      'public/js'
-  ]);
-});
