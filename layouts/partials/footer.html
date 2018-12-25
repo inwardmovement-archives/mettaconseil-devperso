@@ -12,11 +12,6 @@
   </div>
 </nav>
 
-<script>
-  tarteaucitron.user.gtagUa = 'UA-114704921-2';
-  (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
-  (tarteaucitron.job = tarteaucitron.job || []).push('facebookcomment');
-</script>
 {{- with (getenv "CI") }}
   <script src="{{ "main.js" | relURL }}"></script>
 {{ else }}
@@ -25,3 +20,8 @@
   <script src="{{ "js/scrolltofixed.js" | relURL }}"></script>
   <script src="{{ "js/app.js" | relURL }}"></script>
 {{ end -}}
+<script>
+  tarteaucitron.user.gtagUa = 'UA-114704921-2';
+  (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+  (tarteaucitron.job = tarteaucitron.job || []).push('facebookcomment');
+</script>
