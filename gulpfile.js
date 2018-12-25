@@ -20,7 +20,7 @@ gulp.task('hugo', ['reset'], function (fetch) {
     console.log(stderr);
     fetch(err);
   });
-})
+});
 
 gulp.task('html', ['hugo'], function() {
   return gulp.src('public/**/*.html')
