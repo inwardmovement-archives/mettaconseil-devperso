@@ -8,4 +8,4 @@ Diagnostiqué tardivement "à haut potentiel intellectuel", j'ai une passion nat
 
 C'est avec une profonde bienveillance que j'accompagne les personnes qui me sollicitent : je saurai vous donner le meilleur de moi-même, tout en indiquant clairement les éléments ne relevant pas de mes compétences.
 
-La finalité et la priorité éthique de mon activité étant l'allègement de la souffrance, Metta Conseil [tooltip : mettā signifie “bienveillance” en pāli] est membre de l'Alliance Algosphère pour l'allègement de la souffrance [lien].
+La finalité et la priorité éthique de Metta Conseil (*mettā* signifie "bienveillance" en pāli) est l'allègement de la souffrance.

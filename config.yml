@@ -2,6 +2,7 @@ baseURL: "https://inwardmovement.github.io/mettaconseil"
 defaultContentLanguage: "fr"
 languageCode: "fr"
 title: "Metta Conseil"
+canonifyURLs: true
 disableLiveReload: true
 # disableFastRender: true
 metaDataFormat: yaml
@@ -25,9 +26,9 @@ menu:
       URL: "/"
       Identifier: "accueil"
       weight: 1
-    - Name: "Approche"
-      URL: "/approche/"
-      Identifier: "approche"
+    - Name: "À propos"
+      URL: "/a-propos/"
+      Identifier: "a-propos"
       weight: 2
     - Name: "Articles"
       URL: "/articles/"
@@ -37,7 +38,3 @@ menu:
       URL: "/temoignages/"
       Identifier: "temoignages"
       weight: 4
-    - Name: "À propos"
-      URL: "/a-propos/"
-      Identifier: "a-propos"
-      weight: 5
