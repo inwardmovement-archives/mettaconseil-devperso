@@ -2,7 +2,7 @@
   <main class="container">
     <article>
       <h1>{{ .Title }}</h1><br>
-        {{ .Content -}}
+        {{ replace .Content "&laquo;" "&laquo;&#160;" | safeHTML -}}
     </article>
   </main>
 {{ end }}
