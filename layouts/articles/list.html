@@ -2,11 +2,7 @@
   <main class="container">
     <article>
       <h1>{{ .Title }}</h1><br>
-      <ul>
-        {{ range .Data.Pages.ByDate.Reverse -}}
-          <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
-        {{ end -}}
-      </ul>
+        {{ .Content -}}
     </article>
   </main>
 {{ end }}
