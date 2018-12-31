@@ -14,7 +14,7 @@ Pour tout renseignement, n'hésitez pas à me contacter directement :
   <img src="/img/photo.jpg" width=100 class="mr-3 border border-dark" alt="Photo">
   <div class="media-body">
     <h4>Victor Massé</h4>
-    06.69.05.29.65<br>
+    06 69 05 29 65<br>
     <code>contact@mettaconseil.fr</code>
   </div>
 </div>
