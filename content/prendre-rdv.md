@@ -6,11 +6,7 @@ title: Prendre rendez-vous
 - **Vous recevrez un lien** par mail vous permettant d'accéder à la visioconférence au moment du rendez-vous.
 - **Vous devez disposer** d'un compte Google, d'une webcam et d'un micro.
 
-(plugin rendez-vous / Stripe)
-
-Pour tout renseignement, n'hésitez pas à me contacter directement :
-
-<div class="media">
+<div class="media" style="margin-top: 3rem;">
   <img src="/img/photo.jpg" width=100 class="mr-3 border border-dark" alt="Photo">
   <div class="media-body">
     <h4>Victor Massé</h4>
