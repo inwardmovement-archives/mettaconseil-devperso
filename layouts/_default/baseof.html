@@ -4,16 +4,18 @@
   {{- partial "head" . -}}
 </head>
 <body>
-
-  <!-- Facebook SDK -->
-  <div id="fb-root"></div>
-
-  <header>
-    {{ partial "nav" . -}}
-  </header>
-  {{- block "main" . }}{{ end -}}
-  <footer>
-    {{ partial "footer" . -}}
-  </footer>
+  <div id="barba-wrapper">
+    <div class="barba-container">
+      <!-- Facebook SDK -->
+      <div id="fb-root"></div>
+      <header>
+        {{ partial "nav" . -}}
+      </header>
+      {{- block "main" . }}{{ end -}}
+      <footer>
+        {{ partial "footer" . -}}
+      </footer>
+    </div>
+  </div>
 </body>
 </html>

@@ -22,4 +22,4 @@ Le choix de l'exclusivité amoureuse peut se faire :
 # L'exclusivité amoureuse comme discipline spirituelle
 On peut choisir l'exclusivité amoureuse en tant que discipline de l'esprit présentant des bienfaits pour la personne qui la pratique. Elle permet en effet de cultiver l'équanimité, c'est-à-dire l'équilibre émotionnel, le calme intérieur face aux conditions extérieures.
 
-Concrètement, la personne qui choisit l'exclusivité amoureuse en tant que discipline spirituelle estime qu'elle lui apporte plus de bien-être sur le long terme que si elle laissait libre cours à toutes ses envies passagères en fonction des rencontres avec d'autres partenaires potentiels.
+Concrètement, la personne qui choisit l'exclusivité amoureuse en tant que discipline estime qu'elle lui apporte plus de bien-être sur le long terme que si elle laissait libre cours à toutes ses envies passagères en fonction des rencontres avec d'autres partenaires potentiels.
