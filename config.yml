@@ -33,7 +33,3 @@ menu:
       URL: "/articles/"
       Identifier: "articles"
       weight: 3
-    - Name: "Témoignages"
-      URL: "/temoignages/"
-      Identifier: "temoignages"
-      weight: 4
