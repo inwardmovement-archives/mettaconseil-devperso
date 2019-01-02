@@ -45,7 +45,6 @@ $(document).ready(function() {
 ************************************************************/
 tarteaucitron.user.gtagUa = 'UA-114704921-1';
 (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
-(tarteaucitron.job = tarteaucitron.job || []).push('facebookcomment');
 
 tarteaucitron.init({
   "orientation": "bottom",
