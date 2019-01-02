@@ -10,28 +10,25 @@ $('#modalDonation')
   });
 
 /************************************************************
- HIDE LOADER WHEN FB-COMMENTS RENDERED
+ TOP BUTTON
 ************************************************************/
-if ( window.location.href.substr(window.location.href.lastIndexOf("/")-11) == "temoignages/") {
-  var targetNode = document.querySelector('.fb-comments');
-  var config = { attributes: true };
-  var i = 0;
-  var callback = function(mutationsList, observer) {
-    for(var mutation of mutationsList) {
-      if ( mutation.attributeName == "fb-xfbml-state" ) {
-        i++;
-        if ( i == 2 ) {
-          $("#loader").hide();
-        }
-      }
-    }
-  };
-  var observer = new MutationObserver(callback);
-  observer.observe(targetNode, config);
-};
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
+    document.getElementById("topBtn").style.display = "block";
+  } else {
+    document.getElementById("topBtn").style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
 
 /************************************************************
- ENABLE TARTEAUCITRON
+ TARTEAUCITRON
 ************************************************************/
 tarteaucitron.user.gtagUa = 'UA-114704921-1';
 (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
