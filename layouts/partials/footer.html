@@ -12,7 +12,10 @@
   </div>
 </nav>
 
-<script src="{{ "js/jquery.js" | relURL }}"></script>
-<script src="{{ "js/bootstrap.js" | relURL }}"></script>
+{{ $jquery := resources.Get "js/jquery.js" }}
+{{ $bootstrap := resources.Get "js/bootstrap.js" }}
+{{ $main := slice $jquery $bootstrap | resources.Concat "main.js" | minify | fingerprint }}
+<script src="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}"></script>
+<!-- tarteaucitron is not optimizable for now -->
 <script src="{{ "js/tarteaucitron/tarteaucitron.js" | relURL }}"></script>
 <script src="{{ "js/app.js" | relURL }}"></script>

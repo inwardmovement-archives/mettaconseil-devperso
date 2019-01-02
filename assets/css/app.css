@@ -258,7 +258,6 @@ main.container.article {
 .navbar .btn {
   margin-top: 8px;
   margin-bottom: 8px;
-  margin-left: 0px;
 }
 
 @media (min-width: 768px) {
