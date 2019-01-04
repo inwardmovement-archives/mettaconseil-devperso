@@ -13,6 +13,5 @@ Laissez-moi vos disponibilités par mail et je vous proposerai un rendez-vous :
   <div class="media-body">
     <h4>Victor Massé</h4>
     <button type="button" class="btn btn-primary btn-sm" onclick="if(jQuery.browser.mobile){window.open('mailto:mettaconseil@gmail.com','_self')}else{window.open('mailto:mettaconseil@gmail.com')}">Contact <i class="material-icons">mail_outline</i></button>
-    <!-- <code>contact@mettaconseil.fr</code> -->
   </div>
 </div>
