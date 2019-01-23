@@ -9,7 +9,7 @@ rssLimit: 10
 enableRobotsTXT: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
 params:
-  description: "Coaching personnel"
+  description: "Conseil en développement personnel"
   author: "Victor Massé"
 author:
   name: "Victor Massé"
