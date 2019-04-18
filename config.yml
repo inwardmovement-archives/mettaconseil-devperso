@@ -29,7 +29,11 @@ menu:
       URL: "/a-propos/"
       Identifier: "a-propos"
       weight: 2
+    # - Name: "Témoignages"
+    #   URL: "/temoignages/"
+    #   Identifier: "temoignages"
+    #   weight: 3
     - Name: "Articles"
       URL: "/articles/"
       Identifier: "articles"
-      weight: 3
+      weight: 4
