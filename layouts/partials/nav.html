@@ -6,13 +6,13 @@
       {{ $currentPage := . -}}
       <div class="navbar-nav mr-auto">
         {{ range .Site.Menus.mainleft }}
-          {{- $isCurrent := or (eq .URL $currentPage.Permalink) (eq .Identifier $.Section) -}}
+          {{- $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) -}}
             <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
         {{ end -}}
       </div>
       <div class="nav-right navbar-nav">
         {{ range .Site.Menus.mainright }}
-          {{- $isCurrent := or (eq .URL $currentPage.Permalink) (eq .Identifier $.Section) -}}
+          {{- $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) -}}
             <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
         {{ end -}}
         <a class="btn btn-primary" href="{{ "/prendre-rdv/" | relURL }}" role="button">Prendre rendez-vous</a>
