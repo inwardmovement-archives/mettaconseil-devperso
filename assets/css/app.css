@@ -113,10 +113,6 @@ dd {
 ************************************************************/
 main.container {
   max-width: 1140px;
-  margin-bottom: 112px;
-}
-
-main.container.article {
   margin-bottom: 168px;
 }
 
@@ -389,22 +385,24 @@ article h5 {
   margin-bottom: .5rem;
 }
 
-.article h1 {
+main.container h1 {
   font-weight: 300;
+}
+
+main.container h1:first-child {
+  font-weight: initial;
 }
 
 .article h1:first-child {
   text-align: center;
-  font-weight: initial;
 }
 
-
-.article h2 {
+main.container h2 {
   font-size: 1.06rem;
   font-weight: 600;
 }
 
-.article h3 {
+main.container h3 {
   font-size: 1.06rem;
   font-style: italic;
 }
