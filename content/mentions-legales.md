@@ -20,37 +20,26 @@ United States
 +1 (877) 448-4820
 
 # Conditions Générales de Vente
+## Prix et paiement
 Prix d'une prestation de `60 minutes` de conseil en développement personnel : `80,00 € HT` (*TVA non applicable, art. 293 B du CGI*).
 
-Une fois la prestation réalisée, vous recevez la facture à régler par virement bancaire dans les 30 jours.
+Une fois la prestation réalisée, le client reçoit la facture à régler par virement bancaire dans les 30 jours.
 
 # Données personnelles
-Coordonnées du point de contact sur les questions de protection des données personnelles ?
-- page "prendre un rendez-vous"
+## Point de contact
+Voir *Mentions générales* > *Entrepreneur, directeur de publication*.
 
-Quoi ?
-- mails et coordonnées associées
+## Données récoltées
+Les données récoltées sont les mails et coordonnées associées, en vue de la prise de contact, de la prise de rendez-vous et du suivi du paiement.
 
-Pourquoi ?
-- prise de contact, prise de rendez-vous, suivi de paiement
+Cette récolte est obligatoire, elle constitue le minimum de données permettant l'exécution de la prestation.
 
-Durée de conservation ?
-- données archivées quand la prise de contact est terminée ou que le paiement de la prestation a été reçu
-- suppression automatique 30 jours après archivage
+Les données sont supprimées 30 jours après la fin de prise de contact ou la réception du paiement.
 
-Obligatoire ?
-- oui, elles constituent le minimum de données permettant l'exécution des prestations liées à l'activité de Metta Conseil.
+Seuls l'entrepreneur de Metta Conseil et les services de <a href="https://about.google/" target="_blank">Google <i class="material-icons">launch</i></a> ont accès aux données.
 
-Qui a accès aux données ?
-- moi
-- Google
+Les fondements juridiques de cette récolte sont l'intérêt légitime de Metta Conseil dans le cadre de la relation avec ses clients, et <a href="https://policies.google.com/privacy" target="_blank">ceux propres à l'utilisation des services de Google <i class="material-icons">launch</i></a>.
 
-Fondement juridique ?
-- intérêt légitime
+Les données sont transmises hors de l'UE par les services de Google selon les <a href="https://policies.google.com/privacy/frameworks" target="_blank">modalités suivantes <i class="material-icons">launch</i></a>.
 
-Transmission des données ?
-- aucune
-
-Vos droits ?
-- accès, rectification, interrogation, opposition, en me contactant via la page "prendre un rendez-vous"
-- Droit d’introduire une réclamation (plainte) auprès de la CNIL ;
+Le client dispose sur les données récoltées le concernant d'un droit d'accès, de rectification, d'interrogation et d'opposition qu'il peut faire valoir en contactant l'entrepreneur (voir *Mentions générales* > *Entrepreneur, directeur de publication*). Le client dispose aussi d'un droit d'introduire une réclamation (plainte) auprès de la CNIL.
