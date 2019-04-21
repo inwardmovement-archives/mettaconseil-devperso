@@ -14,4 +14,8 @@ Laissez-moi vos disponibilités par mail et je vous proposerai un rendez-vous :
     <h4>Victor Massé</h4>
     <button type="button" class="btn btn-primary btn-sm" onclick="if(jQuery.browser.mobile){window.open('mailto:contact@mettaconseil.fr','_self')}else{window.open('mailto:contact@mettaconseil.fr')}">Contact <i class="material-icons">mail_outline</i></button>
   </div>
-</div>
+</div><br>
+
+{{% alert "light" %}}
+  Données personnelles : Metta Conseil récolte les mails et coordonnées associées en vue de la prise de contact, de la prise de rendez-vous et du suivi du paiement. <a href="/mentions-legales/#données-personnelles">En savoir plus</a>
+{{% /alert %}}
