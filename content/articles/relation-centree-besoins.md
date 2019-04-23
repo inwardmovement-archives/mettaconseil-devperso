@@ -89,12 +89,3 @@ Vues ces considérations, on accordera la priorité au besoin passif ; sauf s'il
 
 # Tableau récapitulatif
 Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA/embed" target="_blank">tableau récapitulatif <i class="material-icons">launch</i></a>
-
-# Exemples
-*(à venir)*
-
-<!-- Il est temps d'appliquer de la méthode à des exemples concrets.
-
-Voir les <a href="https://docs.google.com/presentation/d/1kVT9dkr1uUP9pwO508hvai3MNOrQ35CwuliU3J32CTc/embed" target="_blank">exemples de priorisations des besoins <i class="material-icons">launch</i></a>
-
-Le lecteur est invité à proposer d'autres exemples à ajouter à la présentation ; ils seront l'occasion de vérifier la méthode ou de l'améliorer en en montrant les faiblesses et angles morts. -->
