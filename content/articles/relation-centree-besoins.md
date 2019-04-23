@@ -5,7 +5,7 @@ date: 2017-11-08
 
 {{< toc >}}
 
-# Introduction
+# Préambule
 J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire "non A" ?
 
 Au fil de mes recherches et expériences j'ai mis au point une méthode pour déterminer **systématiquement** quel besoin est *comparément plus légitime* que l'autre et devrait donc être priorisé.
@@ -19,6 +19,9 @@ La méthode est décrite dans cet article, et je peux vous accompagner dans sa m
 
 - de pouvoir se mettre d'accord *en amont* sur son utilisation pour adoucir et neutraliser les conflits de besoins *futurs*.
 
+La méthode opère désolidairement de la phase argumentative des besoins : elle propose une priorisation algorithmique *a priori* des besoins en conflit, mais n'interfère pas dans l'argumentation qui ferait plus valoir tel ou tel besoin. La légitimité comparée des besoins n'est pas conditionnée par leur argumentation interne ("il est mieux de faire cela pour telle raison") mais par leurs caractéristiques selon la typologie proposée.
+
+# Introduction
 Dans une relation interpersonnelle, l'interdépendance peut faire émerger des conflits de besoins : une des personnes a un besoin et l'autre a le besoin contraire.
 
 Dans la relation amoureuse particulièrement, le conditionnement culturel peut compromettre l'épanouissement :
@@ -32,7 +35,7 @@ C'est pourquoi il est nécessaire d'apporter un soin particulier aux modalités 
 Pour cela on propose une méthode simple : la relation centrée sur les besoins.
 
 # Méthode
-La méthode consiste à cultiver une vigilance sur deux points spécifiques, et à adopter la priorisation des besoins en trois règles.
+La méthode consiste à cultiver une vigilance sur deux points spécifiques, et à adopter la priorisation des besoins en trois règles selon une typologie précise.
 
 ## A) Points de vigilance
 - Suivre nos besoins :
@@ -43,8 +46,8 @@ Il va de soi qu'un besoin peut évoluer.
 Pour optimiser la satisfaction des besoins et l'entente entre les partenaires, il est nécessaire que ces derniers communiquent à l'autre leurs besoins afin qu'ils adaptent leur attitude dans et envers la relation.
 Cela peut se faire tacitement, mais en s'assurant qu'il n'y a pas de malentendu.
 
-## B) La priorisation des besoins en trois règles
-Définitions préalables :
+## B) Typologie des besoins
+On propose la typologie suivante :
 
 Souplesse
 : À certains besoins nous pouvons accorder une certaine souplesse (besoins "souples"), mais avec d'autres il n'est pas envisageable de négocier (besoins "non négociables") : cela se détermine au ressenti.
@@ -58,12 +61,16 @@ Contrariété et conflit
 Dureté du conflit
 : Un conflit est dit "doux" s'il concerne un besoin qui n'a pas la même souplesse pour chacun des partenaires (souple pour nous et non négociable pour notre partenaire, ou inversement) ou s'il est souple pour chacun. Le conflit est dit "dur" si le besoin est non négociable pour les deux partenaires.
 
-Exclusivité
-: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas directement la participation de la personne qui l'éprouve.
+Exclusivité / inclusivité
+: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation ni la nuisance objective de la personne qui l'éprouve. Dans le cas contraire il est dit "inclusif".
+
+Nuisance objective / subjective
+: Une nuisance est dite "objective" quand elle ne résulte pas uniquement d'une divergence idéologique ou d'une réaction émotionnelle. Dans le cas contraire elle est dite "subjective".
 
 Priorité
 : Un besoin est dit "prioritaire" quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
 
+## C) Priorisation des besoins en trois règles
 ### a) Priorisation par négociation libre
 En cas de conflit doux en souplesse égale, l'enjeu est tout au plus une petite insatisfaction pour l'un des partenaires. Une simple discussion permettra de résoudre le conflit où l'un consentira à la satisfaction du besoin de l'autre.
 
@@ -71,12 +78,23 @@ En cas de conflit doux en souplesse égale, l'enjeu est tout au plus une petite 
 En cas de conflit en souplesse inégale, le besoin non négociable est prioritaire car il génèrera vraisemblablement plus de souffrance s'il n'est pas satisfait que le besoin souple.
 
 ### c) Priorisation passive
-En cas de conflit dur, on considère :
-- qu'un besoin passif est généralement plus légitime car il n'implique pas d'agir en contrariété avec ses besoins ;
+En cas de conflit dur, on propose les considérations suivantes :
+- un besoin passif est généralement plus légitime car il n'implique pas d'agir en contrariété avec ses besoins ;
 
-- mais qu'un besoin actif est plus légitime comparément à un besoin passif exclusif, car ce dernier n'implique pas directement la participation de la personne qui l'éprouve.
+- un besoin actif est plus légitime comparément à un besoin passif exclusif, car ce dernier n'implique pas la participation ni la nuisance objective de la personne qui l'éprouve ;
 
-Ainsi le besoin passif est prioritaire sauf s'il est exclusif, auquel cas le besoin actif est prioritaire.
+- la nuisance subjective (résultant uniquement d'une divergence idéologique ou d'une réaction émotionnelle) n'est pas imputable à la satisfaction du besoin contraire à la suite de laquelle elle apparait, mais à l'état subjectif/cognitif préalable de la personne qui la subit ; elle doit être ignorée des facteurs d'inclusivité d'un besoin.
+
+Vues ces considérations, on accordera la priorité au besoin passif ; sauf s'il est exclusif, auquel cas on l'accordera au besoin actif.
 
 # Tableau récapitulatif
-Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA" target="_blank">tableau récapitulatif <i class="material-icons">launch</i></a>
+Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA/embed" target="_blank">tableau récapitulatif <i class="material-icons">launch</i></a>
+
+# Exemples
+*(à venir)*
+
+<!-- Il est temps d'appliquer de la méthode à des exemples concrets.
+
+Voir les <a href="https://docs.google.com/presentation/d/1kVT9dkr1uUP9pwO508hvai3MNOrQ35CwuliU3J32CTc/embed" target="_blank">exemples de priorisations des besoins <i class="material-icons">launch</i></a>
+
+Le lecteur est invité à proposer d'autres exemples à ajouter à la présentation ; ils seront l'occasion de vérifier la méthode ou de l'améliorer en en montrant les faiblesses et angles morts. -->
