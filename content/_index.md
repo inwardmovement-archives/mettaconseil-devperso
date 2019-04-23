@@ -8,7 +8,7 @@ Vous :
 - vous posez question sur un comportement,
 - ne savez pas comment réagir,
 - ne parvenez pas à vous faire respecter,
-- avez du mal vous faire comprendre,
+- avez du mal à vous faire comprendre,
 - n’êtes pas vous-même de peur de perdre l’autre.
 
 Je vous accompagne pour débloquer une situation en vous partageant mes analyses, conseils, pistes de réflexion et nouvelles perspectives pour éclairer votre problématique.
