@@ -1,8 +1,7 @@
 ---
 title: Mentions légales
+toc: true
 ---
-
-{{< toc >}}
 
 # Mentions générales
 ## Entrepreneur, directeur de publication

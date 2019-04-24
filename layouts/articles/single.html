@@ -2,7 +2,8 @@
   <main class="container article">
     <article>
       <h1>{{ .Title }}</h1><br>
-        {{ .Content -}}
+      {{ if .Params.toc }}{{ .Page.TableOfContents }}<br><br>{{ end }}
+      {{ .Content -}}
     </article>
   </main>
   {{ partial "top-btn" . }}

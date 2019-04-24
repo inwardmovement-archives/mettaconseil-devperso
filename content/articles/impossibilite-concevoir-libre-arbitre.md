@@ -1,6 +1,8 @@
 ---
 title: L'impossibilité de concevoir le libre-arbitre
 date: 2019-01-14
+categories:
+  - "Philosophie analytique"
 ---
 
 Le "libre-arbitre" désigne une modalité de pensée non conditionnée par des facteurs autres qu'une volonté indépendante.

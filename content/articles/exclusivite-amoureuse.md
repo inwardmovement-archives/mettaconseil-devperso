@@ -1,9 +1,10 @@
 ---
 title: "L'exclusivité amoureuse : une discipline spirituelle ?"
 date: 2018-09-13
+categories:
+  - "Relations interpersonnelles"
+toc: true
 ---
-
-{{< toc >}}
 
 # Qu'est-ce que l'exclusivité amoureuse ?
 L'exclusivité amoureuse est en général le fait de se restreindre volontairement à n'avoir qu'un seul partenaire amoureux. Elle prend la forme d'une promesse (parfois tacite) et d'une volonté de la respecter.

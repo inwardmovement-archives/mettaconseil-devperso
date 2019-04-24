@@ -7,12 +7,13 @@ disableLiveReload: true
 metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true
-disableKinds: ["taxonomy", "taxonomyTerm"]
 params:
   description: "Conseil en développement personnel"
   author: "Victor Massé"
 author:
   name: "Victor Massé"
+taxonomies:
+  category: categories
 blackfriday:
   angledQuotes: true
   extensions:

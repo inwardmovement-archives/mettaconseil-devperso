@@ -1,9 +1,10 @@
 ---
 title: Les confusions courantes sur l'enseignement du Bouddha
 date: 2015-09-04
+categories:
+  - "Philosophie analytique"
+toc: true
 ---
-
-{{< toc >}}
 
 # Le Dhamma
 L'enseignement du Bouddha est appelé "Dhamma", qui signifie en pāli *loi de la Nature*.

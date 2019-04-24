@@ -1,7 +1,8 @@
 ---
 title: L'impossibilité de concevoir l'origine de tout
 date: 2016-07-30
-aliases: /articles/origine-tout/
+categories:
+  - "Philosophie analytique"
 ---
 
 "L'origine de tout" désigne le changement d'une absence de tout vers l'existence de quelque chose.

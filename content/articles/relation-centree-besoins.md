@@ -1,9 +1,10 @@
 ---
 title: La relation centrée sur les besoins
 date: 2017-11-08
+categories:
+  - "Relations interpersonnelles"
+toc: true
 ---
-
-{{< toc >}}
 
 # Préambule
 J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire "non A" ?
