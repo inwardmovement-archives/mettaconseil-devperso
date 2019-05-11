@@ -17,5 +17,5 @@ Laissez-moi vos disponibilités par mail et je vous proposerai un rendez-vous :
 </div><br>
 
 {{% alert "light" %}}
-  Données personnelles : Metta Conseil récolte les mails et coordonnées associées en vue de la prise de contact, de la prise de rendez-vous et du suivi du paiement. <a href="/mentions-legales/#données-personnelles">En savoir plus</a>
+Données personnelles : Metta Conseil récolte les mails et coordonnées associées en vue de la prise de contact, de la prise de rendez-vous et du suivi du paiement. <a href="/mentions-legales/#données-personnelles">En savoir plus</a>
 {{% /alert %}}

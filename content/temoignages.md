@@ -3,5 +3,5 @@ title: Témoignages
 ---
 
 {{% quote "Client" %}}
-  Témoignage
+Témoignage
 {{% /quote %}}
