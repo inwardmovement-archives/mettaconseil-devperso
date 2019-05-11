@@ -38,3 +38,16 @@ menu:
       URL: "/articles/"
       Identifier: "articles"
       weight: 4
+  footer:
+    - Name: "Mentions légales"
+      URL: "/mentions-legales/"
+      Identifier: "mentions-legales"
+      weight: 1
+    - Name: "GitHub"
+      URL: "https://github.com/inwardmovement/mettaconseil/"
+      Identifier: "github"
+      weight: 2
+    - Name: "Pour les professionnels"
+      URL: "https://pro.mettaconseil.fr/"
+      Identifier: "pour-les-particuliers"
+      weight: 3
