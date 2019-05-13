@@ -89,4 +89,4 @@ En cas de conflit dur, on propose les considérations suivantes :
 Vues ces considérations, on accordera la priorité au besoin passif ; sauf s'il est exclusif, auquel cas on l'accordera au besoin actif.
 
 # Tableau récapitulatif
-Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA/embed" target="_blank">tableau récapitulatif <i class="material-icons">launch</i></a>
+Voir le [tableau récapitulatif](https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA/embed)
