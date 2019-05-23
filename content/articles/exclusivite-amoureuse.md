@@ -1,6 +1,7 @@
 ---
 title: "L'exclusivité amoureuse : une discipline spirituelle ?"
 date: 2018-09-13
+description: Un aspect noble de l'exclusivité amoureuse
 categories:
   - "Relations interpersonnelles"
 toc: true

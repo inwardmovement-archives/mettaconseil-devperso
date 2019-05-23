@@ -1,5 +1,6 @@
 ---
 title: À propos
+description: Je m'appelle Victor, j'ai 28 ans et habite en région lyonnaise.
 ---
 
 Je m'appelle Victor, j'ai 28 ans et habite en région lyonnaise.
