@@ -3,7 +3,7 @@
     <article>
       <h1>{{ .Title }}</h1><br>
       {{ if .Params.toc }}{{ .Page.TableOfContents }}<br><br>{{ end }}
-      {{ .Content -}}
+      {{ .Content }}
     </article>
   </main>
   {{ partial "top-btn" . }}

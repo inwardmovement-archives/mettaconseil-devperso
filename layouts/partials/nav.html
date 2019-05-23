@@ -4,11 +4,11 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbar-collapse">
       <div class="navbar-nav mr-auto">
-        {{ $currentPage := . -}}
+        {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          {{- $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) -}}
+          {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) }}
             <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
-        {{ end -}}
+        {{ end }}
       </div>
       <div class="nav-right navbar-nav">
         <a class="btn btn-primary" href="{{ "/prendre-rdv/" | relURL }}" role="button">Prendre rendez-vous</a>
