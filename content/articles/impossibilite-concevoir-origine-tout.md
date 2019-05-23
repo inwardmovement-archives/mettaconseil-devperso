@@ -1,7 +1,7 @@
 ---
-title: L'impossibilité de concevoir l'origine de tout
+title: "L'impossibilité de concevoir l'origine de tout"
 date: 2016-07-30
-description: Peut-on vraiment concevoir l'origine de tout ?
+description: "Peut-on vraiment concevoir l'origine de tout ?"
 categories:
   - "Philosophie analytique"
 ---

@@ -1,6 +1,6 @@
 ---
-title: Témoignages
-description: Les témoignages de nos clients
+title: "Témoignages"
+description: "Les témoignages de nos clients"
 ---
 
 {{% quote "Client" %}}

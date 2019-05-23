@@ -1,7 +1,7 @@
 ---
-title: L'impossibilité de concevoir le libre-arbitre
+title: "L'impossibilité de concevoir le libre-arbitre"
 date: 2019-01-14
-description: Peut-on vraiment concevoir le libre-arbitre ?
+description: "Peut-on vraiment concevoir le libre-arbitre ?"
 categories:
   - "Philosophie analytique"
 ---

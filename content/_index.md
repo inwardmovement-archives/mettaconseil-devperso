@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: "Accueil"
 ---
 
 Sous cette appellation généraliste, mon métier consiste plus spécifiquement à analyser et conseiller dans les domaines de la compréhension de soi et des relations interpersonnelles.

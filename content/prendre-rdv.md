@@ -1,6 +1,6 @@
 ---
-title: Prendre rendez-vous
-description: Convenons ensemble d'un rendez-vous
+title: "Prendre rendez-vous"
+description: "Convenons ensemble d'un rendez-vous"
 ---
 
 - Le tarif est de <span class="badge badge-success">80 €</span> pour 60 minutes d'entretien.

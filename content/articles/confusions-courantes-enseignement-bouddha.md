@@ -1,7 +1,7 @@
 ---
-title: Les confusions courantes sur l'enseignement du Bouddha
+title: "Les confusions courantes sur l'enseignement du Bouddha"
 date: 2015-09-04
-description: De multiples confusions sont souvent faites sur l'enseignement bouddhiste
+description: "De multiples confusions sont souvent faites sur l'enseignement bouddhiste"
 categories:
   - "Philosophie analytique"
 toc: true
