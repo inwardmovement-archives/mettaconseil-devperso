@@ -1,7 +1,7 @@
 ---
 title: "La relation centrée sur les besoins"
-date: 2017-11-08
 description: "Légitimité comparée des besoins et priorisation en trois règles"
+date: 2017-11-08
 categories:
   - "Relations interpersonnelles"
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: "Sentiment amoureux et modalité relationnelle"
-date: 2019-01-16
 description: "Ma relation à l'exclusivité amoureuse"
+date: 2019-01-16
 categories:
   - "Relations interpersonnelles"
 ---
