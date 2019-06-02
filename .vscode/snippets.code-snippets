@@ -1,0 +1,21 @@
+{
+  "New article": {
+    "scope": "markdown",
+    "prefix": "ar",
+    "body": [
+      "---",
+      "title: \"$1\"",
+      "description: \"$2\"",
+      "date: $3",
+      "categories:",
+      "  - \"Relations interpersonnelles\"",
+      "  - \"Philosophie analytique\"",
+      "toc: true",
+      "draft: true",
+      "---",
+      "",
+      "$0"
+    ],
+    "description": ""
+  }
+}
