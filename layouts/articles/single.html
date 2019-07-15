@@ -1,7 +1,7 @@
 {{ define "main" }}
   <main class="container article">
     <article>
-      <a class="btn btn-light" href="{{ .Parent.RelPermalink }}" role="button">← Retour</a><br><br>
+      {{ partial "back-btn" . }}<br><br>
       <h1>{{ .Title }}</h1><br>
       {{ if .Params.toc }}{{ .Page.TableOfContents }}<br><br>{{ end }}
       {{ .Content }}
