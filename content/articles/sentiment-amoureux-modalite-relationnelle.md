@@ -6,7 +6,7 @@ categories:
   - "Relations interpersonnelles"
 ---
 
-J'ai remarqué que, quand je suis amoureux, je n'ai besoin d'aimer qu'une personne. J'attribue cela non pas au conformisme de l'exclusivité conjugale, mais à l'intensité et à la portée du désir que j'éprouve pour la personne aimée : celui-ci est tel qu'il colonise toutes les zones de mon cerveaux (c'est une image, quoique) résultant en une tendance générale de tous mes processus mentaux à être dirigés vers la personne aimée.
+J'ai remarqué que, quand je suis amoureux, je n'ai besoin d'aimer qu'une personne. J'attribue cela non pas au conformisme de l'exclusivité conjugale, mais à l'intensité et à la portée du désir que j'éprouve pour la personne aimée : celui-ci est tel qu'il colonise toutes les zones de mon cerveau (c'est une image, quoique) résultant en une tendance générale de tous mes processus mentaux à être dirigés vers la personne aimée.
 
 S'il s'agit en apparence d'un fondement de l'exclusivité au sens courant, ce n'est pas le cas. Ce qui a lieu ici est plus une mono-affectivité, une pleine satisfaction de mes besoins amoureux par une personne. Si de cette plénitude peut émerger une pulsion d'engagement amoureux exclusif de ma part, formalisée ou non par une promesse explicite, cela n'est absolument pas subordonné à une exigence symétrique envers la personne que j'aime. C'est unilatéral : si je suis comblé par la relation et souhaite forger un fétiche, un catalyseur de cette plénitude en un engagement implicite exclusif ou une promesse explicite d'exclusivité, cela n'engage et ne concerne que moi, et ne fonde en rien une légitimité d'attendre la même attitude de la personne aimée.
 
