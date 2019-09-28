@@ -9,7 +9,7 @@ function reset() {
 }
 
 function hugo(fetch) {
-  return exec('hugo', function (err, stdout, stderr) {
+  exec('hugo', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     fetch(err);
