@@ -1,0 +1,10 @@
+{
+  "b64": {
+		"scope": "plaintext,markdown",
+		"prefix": "b64",
+		"body": [
+      "{{< b64 \"$1\" >}}"
+		],
+		"description": ""
+	}
+}
