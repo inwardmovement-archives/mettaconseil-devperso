@@ -4,7 +4,7 @@ description: "Nos mentions légales"
 toc: true
 ---
 
-# Mentions générales
+# Mentions générales {#mentions-generales}
 ## Entrepreneur, directeur de publication
 Victor Massé
 735 avenue du général de Gaulle
@@ -15,7 +15,7 @@ contact@mettaconseil.fr
 `SIRET 85042677600017`
 `APE 9609Z`
 
-## Hébergeur
+## Hébergeur {#hebergeur}
 GitHub, Inc.
 88 Colin P Kelly Jr St
 San Francisco, CA 94107
@@ -25,17 +25,17 @@ United States
 ## Cookies
 Ce site Internet n'utilise pas de cookies.
 
-# Conditions Générales de Vente
+# Conditions Générales de Vente {#conditions-generales-de-vente}
 ## Prix et paiement
 Prix d'une prestation de `60 minutes` de conseil en développement personnel : `80,00 € HT` (*TVA non applicable, art. 293 B du CGI*).
 
 Une fois la prestation réalisée, le client reçoit la facture à régler par virement bancaire dans les 30 jours.
 
-# Données personnelles
+# Données personnelles {#donnees-personnelles}
 ## Point de contact
 Voir *Mentions générales* > *Entrepreneur, directeur de publication*.
 
-## Données récoltées
+## Données récoltées {#donnees-recoltees}
 Les données récoltées sont les mails et coordonnées associées, en vue de la prise de contact, de la prise de rendez-vous et du suivi du paiement.
 
 Cette récolte est obligatoire, elle constitue le minimum de données permettant l'exécution de la prestation.
