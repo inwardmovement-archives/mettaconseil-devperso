@@ -8,7 +8,7 @@ toc: true
 ---
 
 # Préambule
-J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire "non A" ?
+J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire « non A » ?
 
 Au fil de mes recherches et expériences j'ai mis au point une méthode pour déterminer **systématiquement** quel besoin est *comparément plus légitime* que l'autre et devrait donc être priorisé.
 
@@ -21,7 +21,7 @@ La méthode est décrite dans cet article, et je peux vous accompagner dans sa m
 
 - de pouvoir se mettre d'accord *en amont* sur son utilisation pour adoucir et neutraliser les conflits de besoins *futurs*.
 
-La méthode opère désolidairement de la phase argumentative des besoins : elle propose une priorisation algorithmique *a priori* des besoins en conflit, mais n'interfère pas dans l'argumentation qui ferait plus valoir tel ou tel besoin. La légitimité comparée des besoins n'est pas conditionnée par leur argumentation interne ("il est mieux de faire cela pour telle raison") mais par leurs caractéristiques selon la typologie proposée.
+La méthode opère désolidairement de la phase argumentative des besoins : elle propose une priorisation algorithmique *a priori* des besoins en conflit, mais n'interfère pas dans l'argumentation qui ferait plus valoir tel ou tel besoin. La légitimité comparée des besoins n'est pas conditionnée par leur argumentation interne (« il est mieux de faire cela pour telle raison ») mais par leurs caractéristiques selon la typologie proposée.
 
 # Introduction
 Dans une relation interpersonnelle, l'interdépendance peut faire émerger des conflits de besoins : une des personnes a un besoin et l'autre a le besoin contraire.
@@ -52,25 +52,25 @@ Cela peut se faire tacitement, mais en s'assurant qu'il n'y a pas de malentendu.
 On propose la typologie suivante :
 
 Souplesse
-: À certains besoins nous pouvons accorder une certaine souplesse (besoins "souples"), mais avec d'autres il n'est pas envisageable de négocier (besoins "non négociables") : cela se détermine au ressenti.
+: À certains besoins nous pouvons accorder une certaine souplesse (besoins « souples »), mais avec d'autres il n'est pas envisageable de négocier (besoins « non négociables ») : cela se détermine au ressenti.
 
 Dynamique
-: Un besoin est dit "actif" s'il nécessite une action pour être satisfait ; il est dit "passif" s'il nécessite l'absence d'une action pour être satisfait.
+: Un besoin est dit « actif » s'il nécessite une action pour être satisfait ; il est dit « passif » s'il nécessite l'absence d'une action pour être satisfait.
 
 Contrariété et conflit
-: Un besoin est dit "contraire" s'il est inversement dynamique chez la personne partenaire (un besoin est actif pour une personne et passif pour l'autre). Il y a alors conflit de besoins.
+: Un besoin est dit « contraire » s'il est inversement dynamique chez la personne partenaire (un besoin est actif pour une personne et passif pour l'autre). Il y a alors conflit de besoins.
 
 Dureté du conflit
-: Un conflit est dit "doux" s'il concerne un besoin qui n'a pas la même souplesse pour chacun des partenaires (souple pour nous et non négociable pour notre partenaire, ou inversement) ou s'il est souple pour chacun. Le conflit est dit "dur" si le besoin est non négociable pour les deux partenaires.
+: Un conflit est dit « doux » s'il concerne un besoin qui n'a pas la même souplesse pour chacun des partenaires (souple pour nous et non négociable pour notre partenaire, ou inversement) ou s'il est souple pour chacun. Le conflit est dit « dur » si le besoin est non négociable pour les deux partenaires.
 
 Exclusivité / inclusivité
-: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation ni la nuisance objective de la personne qui l'éprouve. Dans le cas contraire il est dit "inclusif".
+: Un besoin est dit « exclusif » si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation ni la nuisance objective de la personne qui l'éprouve. Dans le cas contraire il est dit « inclusif ».
 
 Nuisance objective / subjective
-: Une nuisance est dite "objective" quand elle ne résulte pas uniquement d'une divergence idéologique ou d'une réaction émotionnelle. Dans le cas contraire elle est dite "subjective".
+: Une nuisance est dite « objective » quand elle ne résulte pas uniquement d'une divergence idéologique ou d'une réaction émotionnelle. Dans le cas contraire elle est dite « subjective ».
 
 Priorité
-: Un besoin est dit "prioritaire" quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
+: Un besoin est dit « prioritaire » quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
 
 ## C) Priorisation des besoins en trois règles
 ### a) Priorisation par négociation libre

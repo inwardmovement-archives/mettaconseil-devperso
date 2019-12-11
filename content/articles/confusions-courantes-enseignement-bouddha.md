@@ -8,7 +8,7 @@ toc: true
 ---
 
 # Le Dhamma
-L'enseignement du Bouddha est appelé "Dhamma", qui signifie en pāli *loi de la Nature*.
+L'enseignement du Bouddha est appelé « Dhamma », qui signifie en pāli *loi de la Nature*.
 
 Le Dhamma est l'ensemble de ce qu'a découvert et enseigné le Bouddha.
 
@@ -27,9 +27,9 @@ Inutile de se focaliser sur les désaccords d'interprétation, mieux vaut s'en t
 # Confusions
 De traductions parfois imprécises du canon pāli peuvent émerger certaines confusions.
 
-Par exemple le terme *upekkhā* est souvent traduit par "détachement" ou "indifférence", termes fortement connotés et ambigus, alors qu'il désigne précisément l'*équanimité* : la capacité à garder un esprit calme et équilibré en toutes circonstances. Dire que le Bouddha "prône le détachement" est une caricature qui mène à confusion.
+Par exemple le terme *upekkhā* est souvent traduit par « détachement » ou « indifférence », termes fortement connotés et ambigus, alors qu'il désigne précisément l'*équanimité* : la capacité à garder un esprit calme et équilibré en toutes circonstances. Dire que le Bouddha « prône le détachement » est une caricature qui mène à confusion.
 
-Le terme *taṇhā* est souvent traduit par "désir" ou "envie", mots extrêmement vagues, alors qu'il signifie *soif* et désigne trois formes d'avidité : attachement aux plaisirs des sens, désir de ce qui n'est pas et aversion pour ce qui est. Dire que d'après le Bouddha "il ne faut rien désirer" est également une caricature qui mène à confusion.
+Le terme *taṇhā* est souvent traduit par « désir » ou « envie », mots extrêmement vagues, alors qu'il signifie *soif* et désigne trois formes d'avidité : attachement aux plaisirs des sens, désir de ce qui n'est pas et aversion pour ce qui est. Dire que d'après le Bouddha « il ne faut rien désirer » est également une caricature qui mène à confusion.
 
 Il est important de se référer au sens des mots pālis pour comprendre l'enseignement.
 

@@ -6,7 +6,7 @@ categories:
   - "Philosophie analytique"
 ---
 
-"L'origine de tout" désigne le changement d'une absence de tout vers l'existence de quelque chose.
+« L'origine de tout » désigne le changement d'une absence de tout vers l'existence de quelque chose.
 
 Tout phénomène étant par définition absent du premier état, les conditions pour l'émergence de quelque chose le sont aussi.
 
