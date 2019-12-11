@@ -19,7 +19,7 @@ Les bouddhismes sont différents systèmes de normes et de valeurs plus ou moins
 
 On y trouve souvent des éléments qui ne figurent pas dans l'enseignement, et il y manque souvent des éléments qui sont présents dans l'enseignement.
 
-# Démarche
+# Démarche {#demarche}
 Lors de désaccords sur l'interprétation de l'enseignement du Bouddha, rappelons que sa doctrine invite à investiguer soi-même la réalité (par une technique de méditation précise) afin de la comprendre en profondeur par notre propre expérience.
 
 Inutile de se focaliser sur les désaccords d'interprétation, mieux vaut s'en tenir à ce qui nous semble le plus pertinent selon notre propre observation de la réalité : c'est cela qu'il faut débattre et c'est là que nous avons à y gagner.
@@ -40,7 +40,7 @@ Il préconise le doute aussi longtemps qu'il y a incompréhension.
 
 C'est pourquoi il n'y a pas de *dogmes* dans la doctrine du Bouddha.
 
-# Théorie et pratique
+# Théorie et pratique {#theorie-et-pratique}
 L'enseignement du Bouddha comprend une part théorique et une part pratique. La compréhension de la théorie peut aider, mais pratiquer ce qu'il a enseigné suffit à avancer sur le chemin de l'allègement de la souffrance et fait en soi émerger la compréhension ; son enseignement est né de sa propre pratique, de ce qu'il a découvert et expérimenté.
 
 # Vipassana
