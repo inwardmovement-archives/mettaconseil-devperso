@@ -13,6 +13,7 @@ env:
   HUGO_VERSION: '0.62.0'
   NETLIFY_SITE_ID: '27640b6d-7a50-4d72-bd59-1c22c4000662'
   NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_METTACONSEIL }}
+  GITHUB_COMMIT_MESSAGE: ${{ github.event.commits[0].message }}
 
 jobs:
   build-and-deploy:
