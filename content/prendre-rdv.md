@@ -13,7 +13,7 @@ Laissez-moi vos disponibilités par mail et je vous proposerai un rendez-vous :
   <img src="data:image/png;base64,{{< b64 "img/photo.jpg" >}}" width=100 class="mr-3 border border-dark" alt="Photo">
   <div class="media-body">
     <h4>Victor Massé</h4>
-    <button type="button" class="btn btn-primary btn-sm" onclick="if(jQuery.browser.mobile){window.open('mailto:contact@mettaconseil.fr','_self')}else{window.open('mailto:contact@mettaconseil.fr')}">Contact <i class="material-icons">mail_outline</i></button>
+    <button type="button" class="btn btn-primary btn-sm" onclick="if(jQuery.browser.mobile){window.open('mailto:contact@mettaconseil.com','_self')}else{window.open('mailto:contact@mettaconseil.com')}">Contact <i class="material-icons">mail_outline</i></button>
   </div>
 </div><br>
 
