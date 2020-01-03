@@ -4,7 +4,7 @@
 {{ if not .Site.IsServer }}
   {{ $main = $main | minify | fingerprint }}
 {{ end }}
-<link rel="stylesheet" href="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}">
+<link rel="stylesheet" href="{{ $main.RelPermalink }}" integrity="{{ $main.Data.Integrity }}">
 
 <!-- External links -->
 <style>
