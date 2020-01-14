@@ -7,7 +7,7 @@ categories:
 toc: true
 ---
 
-# Préambule {#preambule}
+# Préambule
 J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire « non A » ?
 
 Au fil de mes recherches et expériences j'ai mis au point une méthode pour déterminer **systématiquement** quel besoin est *comparément plus légitime* que l'autre et devrait donc être priorisé.
@@ -36,7 +36,7 @@ C'est pourquoi il est nécessaire d'apporter un soin particulier aux modalités 
 
 Pour cela on propose une méthode simple : la relation centrée sur les besoins.
 
-# Méthode {#methode}
+# Méthode
 La méthode consiste à cultiver une vigilance sur deux points spécifiques, et à adopter la priorisation des besoins en trois règles selon une typologie précise.
 
 ## A) Points de vigilance
@@ -72,8 +72,8 @@ Nuisance objective / subjective
 Priorité
 : Un besoin est dit « prioritaire » quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
 
-## C) Priorisation des besoins en trois règles {#priorisation-des-besoins-en-trois-regles}
-### a) Priorisation par négociation libre {#priorisation-par-negociation-libre}
+## C) Priorisation des besoins en trois règles
+### a) Priorisation par négociation libre
 En cas de conflit doux en souplesse égale, l'enjeu est tout au plus une petite insatisfaction pour l'un des partenaires. Une simple discussion permettra de résoudre le conflit où l'un consentira à la satisfaction du besoin de l'autre.
 
 ### b) Priorisation par souplesse
@@ -89,5 +89,5 @@ En cas de conflit dur, on propose les considérations suivantes :
 
 Vues ces considérations, on accordera la priorité au besoin passif ; sauf s'il est exclusif, auquel cas on l'accordera au besoin actif.
 
-# Tableau récapitulatif {#tableau-recapitulatif}
+# Tableau récapitulatif
 Voir le [tableau récapitulatif](https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA/embed)
