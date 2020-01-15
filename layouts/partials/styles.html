@@ -1,7 +1,7 @@
 {{ $bootstrap := resources.Get "css/bootstrap.css" }}
 {{ $app := resources.Get "css/app.css" }}
 {{ $main := slice $bootstrap $app | resources.Concat "main.css" }}
-{{ if not .Site.IsServer }}
+{{ with (getenv "PRODUCTION") }}
   {{ $main = $main | minify | fingerprint }}
 {{ end }}
 <link rel="stylesheet" href="{{ $main.RelPermalink }}" integrity="{{ $main.Data.Integrity }}">

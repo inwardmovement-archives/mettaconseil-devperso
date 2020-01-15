@@ -8,7 +8,7 @@ on:
     - cron:  '10 0 * * *'
 
 env:
-  CI: true
+  PRODUCTION: true
   NODE_VERSION: '12.14.0'
   HUGO_VERSION: '0.62.2'
   NETLIFY_SITE_ID: '27640b6d-7a50-4d72-bd59-1c22c4000662'
