@@ -27,7 +27,7 @@ Ce site Internet n'utilise pas de cookies.
 
 # Conditions Générales de Vente
 ## Prix et paiement
-Prix d'une prestation de `60 minutes` de conseil en développement personnel : `80,00 € HT` (*TVA non applicable, art. 293 B du CGI*).
+Prix d'une prestation de `60 minutes` de conseil en développement personnel : `50,00 € HT` (*TVA non applicable, art. 293 B du CGI*).
 
 Une fois la prestation réalisée, le client reçoit la facture à régler par virement bancaire dans les 30 jours.
 

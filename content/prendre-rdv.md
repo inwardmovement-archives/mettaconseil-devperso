@@ -3,7 +3,7 @@ title: "Prendre rendez-vous"
 description: "Convenons ensemble d'un rendez-vous"
 ---
 
-- Le tarif est de <span class="badge badge-success">80 €</span> pour 60 minutes d'entretien.
+- Le tarif est de <span class="badge badge-success">50 €</span> pour 60 minutes d'entretien.
 - **Vous recevrez un lien** par mail vous permettant d'accéder à la visioconférence au moment du rendez-vous.
 - **Vous devez disposer** d'un compte Google, d'une webcam et d'un micro.
 
