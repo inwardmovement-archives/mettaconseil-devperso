@@ -9,7 +9,7 @@ toc: true
 Victor Massé
 735 avenue du général de Gaulle
 38290 La Verpillière
-contact@mettaconseil.fr
+contact@mettaconseil.com
 06.69.05.29.65
 `SIREN 850426776`
 `SIRET 85042677600017`
