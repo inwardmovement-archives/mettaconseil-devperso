@@ -1,5 +1,5 @@
 {
-  "name": "mettaconseil",
+  "name": "mettaconseil-devperso",
   "version": "1.0.0",
   "description": "Conseil en développement personnel",
   "main": "gulpfile.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inwardmovement/mettaconseil.git"
+    "url": "git+https://github.com/inwardmovement/mettaconseil-devperso.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inwardmovement/mettaconseil/issues"
+    "url": "https://github.com/inwardmovement/mettaconseil-devperso/issues"
   },
-  "homepage": "https://github.com/inwardmovement/mettaconseil",
+  "homepage": "https://github.com/inwardmovement/mettaconseil-devperso",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-imagemin": "^6.2.0",
