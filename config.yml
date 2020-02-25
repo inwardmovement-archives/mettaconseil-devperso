@@ -52,10 +52,6 @@ menu:
     #   URL: "/temoignages/"
     #   Identifier: "temoignages"
     #   weight: 3
-    - Name: "Articles"
-      URL: "/articles/"
-      Identifier: "articles"
-      weight: 4
   footer:
     - Name: "Mentions légales"
       URL: "/mentions-legales/"
