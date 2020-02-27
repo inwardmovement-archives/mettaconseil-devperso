@@ -13,7 +13,6 @@ env:
   NODE_VERSION: '12.14.0'
   NETLIFY_SITE_ID: '27640b6d-7a50-4d72-bd59-1c22c4000662'
   NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_METTACONSEIL }}
-  DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
 
 jobs:
   build-and-deploy:
@@ -45,9 +44,3 @@ jobs:
       with:
         args: "deploy --prod --dir public"
       if: success()
-    - name: Notify Discord on failure
-      uses: rjstone/discord-webhook-notify@v1
-      if: failure()
-      with:
-        text: CI/CD failed
-        webhookUrl: ${{ env.DISCORD_WEBHOOK }}
